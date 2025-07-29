@@ -1,7 +1,7 @@
-#IMDb Watchlist AI Recommender
-##Description
+# IMDb Watchlist AI Recommender
+## Description
 
-This project is a simple backend built with Node.js, Express, and PostgreSQL that stores users' watched movie lists (IMDb IDs). It uses an AI agent (Google Gemini or OpenAI) to provide personalized movie recommendations based on the watched list.
+### This project is a simple backend built with Node.js, Express, and PostgreSQL that stores users' watched movie lists (IMDb IDs). It uses an AI agent (Google Gemini or OpenAI) to provide personalized movie recommendations based on the watched list.
 Technologies
 
     Node.js + TypeScript
@@ -17,7 +17,7 @@ Technologies
     simple JWT
 
 
-.env 
+## .env 
 
 JWT_ACCESS_SECRET=
 AI_KEY=
